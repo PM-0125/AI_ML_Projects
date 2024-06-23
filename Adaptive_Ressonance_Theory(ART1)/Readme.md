@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feel free to reach out:
 
-- Your Name: Pranjul Mishra [https://www.linkedin.com/in/pranjul-mishra-973b24206/](https://github.com/PM-0125)
+- Name: Pranjul Mishra [https://www.linkedin.com/in/pranjul-mishra-973b24206/](https://github.com/PM-0125)
 - Email: anjananandan0125@gmail.com
 
 ---
